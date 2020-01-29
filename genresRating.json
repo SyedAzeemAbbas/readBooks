@@ -1,0 +1,386 @@
+[
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Science Fiction >Dystopia"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy >Urban Fantasy"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Young Adult >Young Adult Fantasy"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Paranormal >Vampires"
+  }, 
+  {
+    "rating_score": 4.18, 
+    "genre": "Paranormal >Angels"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "New Adult"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Retellings"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy >Magic"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy >Fairy Tales"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy >High Fantasy"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Horror"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy >Supernatural"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Literary Fiction"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": 4.12, 
+    "genre": "Cultural >Canada"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Novels"
+  }, 
+  {
+    "rating_score": 4.11, 
+    "genre": "Adventure >Pirates"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Womens Fiction >Chick Lit"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Science Fiction >Time Travel"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Womens Fiction"
+  }, 
+  {
+    "rating_score": 3.99, 
+    "genre": "Love"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "War >World War II"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Thriller >Psychological Thriller"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Realistic Fiction"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Mystery >Crime"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Nonfiction"
+  }, 
+  {
+    "rating_score": 4.03, 
+    "genre": "Autobiography >Memoir"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Biography"
+  }, 
+  {
+    "rating_score": 4.03, 
+    "genre": "Science >Technology"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Biography Memoir"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy >Epic Fantasy"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "GLBT >Queer"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Romance >M M Romance"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Young Adult >Young Adult Contemporary"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "LGBT >Gay"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy >Mythology"
+  }, 
+  {
+    "rating_score": 4.53, 
+    "genre": "Childrens >Middle Grade"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Science Fiction Fantasy"
+  }, 
+  {
+    "rating_score": 4.23, 
+    "genre": "History"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "War"
+  }, 
+  {
+    "rating_score": 3.72, 
+    "genre": "Education"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Humor"
+  }, 
+  {
+    "rating_score": 3.72, 
+    "genre": "Teaching"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Sociology >Abuse"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "War >Military Fiction"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Romance >Romantic Suspense"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Science Fiction >Cyberpunk"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Feminism"
+  }, 
+  {
+    "rating_score": 3.86, 
+    "genre": "Health"
+  }, 
+  {
+    "rating_score": 3.86, 
+    "genre": "Writing >Essays"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Womens"
+  }, 
+  {
+    "rating_score": 3.86, 
+    "genre": "Psychology"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Self Help"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Health >Mental Health"
+  }, 
+  {
+    "rating_score": 3.86, 
+    "genre": "Sociology"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Audiobook"
+  }, 
+  {
+    "rating_score": 3.51, 
+    "genre": "Cultural >China"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Fantasy >Dragons"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Romance >Paranormal Romance"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Romance >Historical Romance"
+  }, 
+  {
+    "rating_score": 4.33, 
+    "genre": "Paranormal >Witches"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "War >World War I"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "European Literature >British Literature"
+  }, 
+  {
+    "rating_score": 4.31, 
+    "genre": "Family"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Contemporary Romance >Sports Romance"
+  }, 
+  {
+    "rating_score": 4.6, 
+    "genre": "Sports >Sports"
+  }, 
+  {
+    "rating_score": 4.6, 
+    "genre": "Sports >Hockey"
+  }, 
+  {
+    "rating_score": 4.44, 
+    "genre": "Poetry"
+  }, 
+  {
+    "rating_score": 4.11, 
+    "genre": "Westerns"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Mystery >Historical Mystery"
+  }, 
+  {
+    "rating_score": 3.77, 
+    "genre": "Space"
+  }, 
+  {
+    "rating_score": 3.89, 
+    "genre": "Adventure >Survival"
+  }, 
+  {
+    "rating_score": 4.16, 
+    "genre": "Magical Realism"
+  }, 
+  {
+    "rating_score": 3.0, 
+    "genre": "Mystery >Cozy Mystery"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Self Help >Personal Development"
+  }, 
+  {
+    "rating_score": 3.71, 
+    "genre": "Gothic"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Sequential Art >Graphic Novels"
+  }, 
+  {
+    "rating_score": 4.67, 
+    "genre": "Sequential Art >Comics"
+  }, 
+  {
+    "rating_score": 4.0, 
+    "genre": "Graphic Novels Comics"
+  }, 
+  {
+    "rating_score": 4.67, 
+    "genre": "Sequential Art >Webcomic"
+  }
+]

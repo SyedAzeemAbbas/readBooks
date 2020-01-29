@@ -1,0 +1,3226 @@
+[
+  {
+    "rating_score": "4.41", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.41", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.07", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.07", 
+    "genre": "Science Fiction >Dystopia"
+  }, 
+  {
+    "rating_score": "4.07", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.07", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Fantasy >Urban Fantasy"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Young Adult >Young Adult Fantasy"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Paranormal >Vampires"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Paranormal >Angels"
+  }, 
+  {
+    "rating_score": "4.35", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.35", 
+    "genre": "New Adult"
+  }, 
+  {
+    "rating_score": "3.92", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.92", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.92", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.92", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.92", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Retellings"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Young Adult >Young Adult Fantasy"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Fantasy >Magic"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Fantasy >Fairy Tales"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Fantasy >Urban Fantasy"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Fantasy >High Fantasy"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Horror"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Fantasy >Supernatural"
+  }, 
+  {
+    "rating_score": "4.14", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.14", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.14", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.14", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.28", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.28", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.28", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Literary Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Cultural >Canada"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Novels"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Fantasy >Urban Fantasy"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.40", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.40", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.40", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.40", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Adventure >Pirates"
+  }, 
+  {
+    "rating_score": "3.31", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.31", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.31", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "3.98", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.98", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.98", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.98", 
+    "genre": "Womens Fiction >Chick Lit"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Science Fiction >Time Travel"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Science Fiction >Dystopia"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.90", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.90", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.90", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Womens Fiction >Chick Lit"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Womens Fiction"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Love"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "War >World War II"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Thriller >Psychological Thriller"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Realistic Fiction"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Mystery >Crime"
+  }, 
+  {
+    "rating_score": "4.06", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.06", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.06", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.06", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.51", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.51", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.03", 
+    "genre": "Nonfiction"
+  }, 
+  {
+    "rating_score": "4.03", 
+    "genre": "Autobiography >Memoir"
+  }, 
+  {
+    "rating_score": "4.03", 
+    "genre": "Biography"
+  }, 
+  {
+    "rating_score": "4.03", 
+    "genre": "Science >Technology"
+  }, 
+  {
+    "rating_score": "4.03", 
+    "genre": "Biography Memoir"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Horror"
+  }, 
+  {
+    "rating_score": "4.24", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.14", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.14", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Thriller >Psychological Thriller"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Mystery >Crime"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Mystery >Crime"
+  }, 
+  {
+    "rating_score": "3.73", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.73", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.73", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.73", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.73", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.74", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.74", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.74", 
+    "genre": "Retellings"
+  }, 
+  {
+    "rating_score": "4.39", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.39", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.39", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.01", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.40", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.40", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.40", 
+    "genre": "Fantasy >Epic Fantasy"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Womens Fiction >Chick Lit"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Womens Fiction"
+  }, 
+  {
+    "rating_score": "4.13", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.13", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.13", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.13", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Young Adult >Young Adult Fantasy"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "GLBT >Queer"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Romance >M M Romance"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Young Adult >Young Adult Contemporary"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "LGBT >Gay"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "3.62", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.62", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.62", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.62", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.45", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.45", 
+    "genre": "New Adult"
+  }, 
+  {
+    "rating_score": "4.53", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.53", 
+    "genre": "Fantasy >Mythology"
+  }, 
+  {
+    "rating_score": "4.53", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.53", 
+    "genre": "Childrens >Middle Grade"
+  }, 
+  {
+    "rating_score": "4.15", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.15", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.15", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Young Adult >Young Adult Fantasy"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Fantasy >High Fantasy"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Fantasy >Magic"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Science Fiction Fantasy"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "History"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Nonfiction"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Biography"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "War"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "War >World War II"
+  }, 
+  {
+    "rating_score": "4.14", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.14", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.14", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.83", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.83", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.83", 
+    "genre": "Retellings"
+  }, 
+  {
+    "rating_score": "3.83", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "3.83", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Education"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Humor"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Teaching"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "New Adult"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "3.74", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.74", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.74", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.74", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.09", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.09", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.09", 
+    "genre": "Fantasy >Urban Fantasy"
+  }, 
+  {
+    "rating_score": "4.09", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Sociology >Abuse"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "War >Military Fiction"
+  }, 
+  {
+    "rating_score": "4.15", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.15", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Romance >Romantic Suspense"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.04", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "4.04", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.04", 
+    "genre": "Science Fiction >Cyberpunk"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Womens Fiction >Chick Lit"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "4.49", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.49", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.49", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.91", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.91", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.91", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "2.92", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "2.92", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "2.92", 
+    "genre": "Literary Fiction"
+  }, 
+  {
+    "rating_score": "3.75", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.75", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.75", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.75", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.75", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.02", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.02", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.02", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.02", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.85", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.85", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.85", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.85", 
+    "genre": "Retellings"
+  }, 
+  {
+    "rating_score": "3.85", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Nonfiction"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Feminism"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Health"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Writing >Essays"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Womens"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Psychology"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Self Help"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Health >Mental Health"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Sociology"
+  }, 
+  {
+    "rating_score": "3.86", 
+    "genre": "Audiobook"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.63", 
+    "genre": "Fantasy >Urban Fantasy"
+  }, 
+  {
+    "rating_score": "4.63", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.63", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "3.95", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.95", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.95", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.95", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.47", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.47", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.47", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "3.93", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.93", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.93", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.91", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.91", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.65", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.65", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.65", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.65", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Mystery >Crime"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.43", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "3.51", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.51", 
+    "genre": "Cultural >China"
+  }, 
+  {
+    "rating_score": "3.51", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.51", 
+    "genre": "Literary Fiction"
+  }, 
+  {
+    "rating_score": "3.51", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.19", 
+    "genre": "Young Adult >Young Adult Fantasy"
+  }, 
+  {
+    "rating_score": "3.87", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.87", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.87", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "3.87", 
+    "genre": "Fantasy >Dragons"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Paranormal >Vampires"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Romance >Paranormal Romance"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Fantasy >Urban Fantasy"
+  }, 
+  {
+    "rating_score": "4.15", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.15", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "Romance >Historical Romance"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Young Adult >Young Adult Fantasy"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Paranormal >Witches"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Fantasy >Magic"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "Fantasy >High Fantasy"
+  }, 
+  {
+    "rating_score": "4.33", 
+    "genre": "New Adult"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Retellings"
+  }, 
+  {
+    "rating_score": "4.27", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.27", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.27", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.27", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.42", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.42", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.42", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.78", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.78", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.78", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Retellings"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Retellings"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Fantasy >Fairy Tales"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Horror"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.29", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.29", 
+    "genre": "Paranormal >Vampires"
+  }, 
+  {
+    "rating_score": "4.29", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "4.29", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "War >World War I"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "War"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "European Literature >British Literature"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Novels"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Family"
+  }, 
+  {
+    "rating_score": "3.66", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.66", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.66", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.66", 
+    "genre": "Literary Fiction"
+  }, 
+  {
+    "rating_score": "3.66", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.07", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.73", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.73", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.73", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "3.95", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.95", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.95", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.95", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Horror"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Paranormal >Vampires"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.25", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "4.65", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "4.65", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Feminism"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Literary Fiction"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Womens"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Novels"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "European Literature >British Literature"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Realistic Fiction"
+  }, 
+  {
+    "rating_score": "4.06", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.06", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.06", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Audiobook"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Romance >Historical Romance"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.23", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.93", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "3.93", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.93", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.30", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.30", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.30", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.30", 
+    "genre": "Literary Fiction"
+  }, 
+  {
+    "rating_score": "4.30", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "War >World War II"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Romance >Romantic Suspense"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Romance >Paranormal Romance"
+  }, 
+  {
+    "rating_score": "4.03", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.03", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.03", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "War >World War II"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "War"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Horror"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "Contemporary Romance >Sports Romance"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "Sports >Sports"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "Sports >Hockey"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "New Adult"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "Humor"
+  }, 
+  {
+    "rating_score": "4.60", 
+    "genre": "Audiobook"
+  }, 
+  {
+    "rating_score": "4.28", 
+    "genre": "Romance >Romantic Suspense"
+  }, 
+  {
+    "rating_score": "4.28", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.28", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.28", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.41", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.41", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.41", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "4.47", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.47", 
+    "genre": "New Adult"
+  }, 
+  {
+    "rating_score": "3.31", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.31", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.31", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.10", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Literary Fiction"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "4.44", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.44", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.44", 
+    "genre": "Poetry"
+  }, 
+  {
+    "rating_score": "4.20", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.20", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.20", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.20", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "4.38", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.97", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.97", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.97", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "GLBT >Queer"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "Science Fiction Fantasy"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "Fantasy >High Fantasy"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "4.34", 
+    "genre": "Fantasy >Magic"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.69", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.32", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Fantasy >Paranormal"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Fantasy >Urban Fantasy"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Westerns"
+  }, 
+  {
+    "rating_score": "4.11", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.21", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "4.73", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.73", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.73", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "4.73", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.73", 
+    "genre": "Womens Fiction >Chick Lit"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Mystery >Historical Mystery"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.06", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.06", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Retellings"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Young Adult >Young Adult Fantasy"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Space"
+  }, 
+  {
+    "rating_score": "3.77", 
+    "genre": "Science Fiction >Dystopia"
+  }, 
+  {
+    "rating_score": "3.93", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.93", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.93", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.04", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.22", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.35", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.35", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "3.80", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.80", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.80", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "3.80", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.08", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.08", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.08", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.08", 
+    "genre": "Horror"
+  }, 
+  {
+    "rating_score": "4.08", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "GLBT >Queer"
+  }, 
+  {
+    "rating_score": "3.34", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.34", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.34", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.34", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.79", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "3.79", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "3.79", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Adult Fiction"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.09", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.09", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.09", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.71", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "4.71", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.89", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.89", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.89", 
+    "genre": "Adventure >Survival"
+  }, 
+  {
+    "rating_score": "4.40", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.40", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "3.72", 
+    "genre": "New Adult"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.88", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.18", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Magical Realism"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Science Fiction >Time Travel"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Science Fiction"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Mystery >Cozy Mystery"
+  }, 
+  {
+    "rating_score": "4.00", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.26", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "4.66", 
+    "genre": "Nonfiction"
+  }, 
+  {
+    "rating_score": "4.66", 
+    "genre": "Self Help"
+  }, 
+  {
+    "rating_score": "4.66", 
+    "genre": "Self Help >Personal Development"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.71", 
+    "genre": "Gothic"
+  }, 
+  {
+    "rating_score": "3.62", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.62", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.62", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.96", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.39", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.39", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.39", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "4.39", 
+    "genre": "GLBT >Queer"
+  }, 
+  {
+    "rating_score": "3.73", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.73", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.73", 
+    "genre": "Fantasy >Urban Fantasy"
+  }, 
+  {
+    "rating_score": "3.73", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Romance >Contemporary Romance"
+  }, 
+  {
+    "rating_score": "4.17", 
+    "genre": "Adult"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.05", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.56", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.56", 
+    "genre": "Fantasy >Epic Fantasy"
+  }, 
+  {
+    "rating_score": "4.56", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.50", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "4.50", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.50", 
+    "genre": "Suspense"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.12", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.16", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.41", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "4.41", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.41", 
+    "genre": "Fantasy >Epic Fantasy"
+  }, 
+  {
+    "rating_score": "4.08", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.08", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.83", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.83", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.83", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.83", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.85", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "3.85", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "3.85", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Sequential Art >Graphic Novels"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "LGBT"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Sequential Art >Comics"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "GLBT >Queer"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Graphic Novels Comics"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.67", 
+    "genre": "Sequential Art >Webcomic"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Young Adult"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Contemporary"
+  }, 
+  {
+    "rating_score": "4.31", 
+    "genre": "Romance"
+  }, 
+  {
+    "rating_score": "4.07", 
+    "genre": "Historical >Historical Fiction"
+  }, 
+  {
+    "rating_score": "4.07", 
+    "genre": "Historical"
+  }, 
+  {
+    "rating_score": "4.07", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "4.07", 
+    "genre": "War >World War II"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Mystery"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Thriller"
+  }, 
+  {
+    "rating_score": "3.99", 
+    "genre": "Thriller >Mystery Thriller"
+  }, 
+  {
+    "rating_score": "3.87", 
+    "genre": "Fiction"
+  }, 
+  {
+    "rating_score": "3.66", 
+    "genre": "Fantasy"
+  }, 
+  {
+    "rating_score": "3.66", 
+    "genre": "Young Adult"
+  }
+]

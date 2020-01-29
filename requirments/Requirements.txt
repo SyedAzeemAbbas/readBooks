@@ -1,0 +1,10 @@
+PyCharm 2019.3.2 (Community Edition)
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+
+Open PyCharm and Install 
+
+1.Beautiful Soup:
+pip install bs4
+
+2.Requests:
+pip install requests
