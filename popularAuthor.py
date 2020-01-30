@@ -18,7 +18,7 @@ if maxCount>1:
         else:
             break
     print pAuth
-    with open('authors.json', 'w') as outfile:
+    with open('popularAuthor.json', 'w') as outfile:
         json.dump(pAuth, outfile, indent=2)
 else:
     print 'All Author have 1 book'

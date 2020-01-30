@@ -14,5 +14,5 @@ with open('booksData.json') as json_data:
 N = 10
 res = sorted(highScore, key=lambda x: x['ratingScore'] , reverse = True)[:N]
 print res
-with open('topRated.json', 'w') as outfile:
+with open('highestRated.json', 'w') as outfile:
     json.dump(res, outfile, indent=2)

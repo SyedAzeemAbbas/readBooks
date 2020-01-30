@@ -4,7 +4,7 @@ import json
 import re
 booksArr = []
 
-with open('data.json') as json_data:
+with open('links.json') as json_data:
     jsonData = json.load(json_data)
     for i in jsonData:
         urlAfter = i['url']
