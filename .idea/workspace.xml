@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="326baa39-70b6-441e-955e-b52e07a056be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authors.json" beforeDir="false" afterPath="$PROJECT_DIR$/popularAuthor.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/booksscraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/booksscraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/links.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/highestRated.py" beforeDir="false" afterPath="$PROJECT_DIR$/highestRated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genresRating.py" beforeDir="false" afterPath="$PROJECT_DIR$/genresRating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/links.json" beforeDir="false" afterPath="$PROJECT_DIR$/links.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linksscraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/linksscraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/popularAuthor.py" beforeDir="false" afterPath="$PROJECT_DIR$/popularAuthor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topRated.json" beforeDir="false" afterPath="$PROJECT_DIR$/highestRated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/popularAuthor.json" beforeDir="false" afterPath="$PROJECT_DIR$/popularAuthor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +25,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
@@ -93,10 +91,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1580362999392" />
-    <state x="347" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1580297165134">
+    <state x="347" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1580386294502">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="347" y="321" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1580297165134" />
+    <state x="347" y="321" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1580386294502" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

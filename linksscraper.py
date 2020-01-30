@@ -11,5 +11,6 @@ for link in content.findAll('tr', attrs={"itemtype": "http://schema.org/Book"}):
         "url": link.find('a', attrs={"class": "bookTitle"}).get('href'),
     }
     linkArr.append(linksObject)
-    with open('links.json', 'w') as outfile:
-        json.dump(linkArr, outfile, indent=2)
+    print linksObject
+with open('links.json', 'w') as outfile:
+    json.dump(linkArr, outfile, indent=2)

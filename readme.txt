@@ -25,6 +25,6 @@ as a result all the genres are collected and stored in genres.json file.
 --------Part4 --------
 ---> genresRating.py:
 This python code picks the genres of each book and rating of that book is assigned to all the genres in that book,
-after iterating each book the average rating of each genre is calculated and stored in genresRating.json file.
+after iterating each book the average rating of each genre is calculated and stored in genresRatingAll.json file.
 -------End of Data Analysis Section 2 --------------------
 

@@ -23,7 +23,6 @@ with open('genres.json') as json_data:
             "genre" : i,
         }
         res.append(resObj)
-print res
 
 
 for i in gRating:
